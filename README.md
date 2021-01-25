@@ -1,3 +1,7 @@
+ORIGINAL AT https://github.com/tryolabs/requestium seems abandoned.
+I am trying to collect good pull-requests here.
+========
+
 ![Requestium](https://user-images.githubusercontent.com/14966348/32966130-8bb15b00-cbb7-11e7-9faf-85963ec5bd82.png)
 ========
 
